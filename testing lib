@@ -20,7 +20,7 @@ Library v0.36 [
         CreateTab: Function (
             (table | nil) Options [
                 (string | nil) Name = "Tab Name"
-                (string | number | nil) Image = "rbxassetid://133337" | 133337
+                (string | number | nil) Image = "rbxassetid://17805464721" | 133337
             ]
         ) -> Tab [
             CreateSection: Function (
